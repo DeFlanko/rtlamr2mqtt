@@ -39,10 +39,6 @@ RTLAMR2MQTT is a small Python program to read your utility meter such as water, 
 > The old code was too hard to maintain. \
 > Your old entities should be cleaned manually from your MQTT broker
 
-> [!CAUTION]
-> This new version does **not** have the LISTEN MODE!!! \
-> It is planned, but not implemented yet.
-
 
 # Readme starts here
 
@@ -148,14 +144,14 @@ USB Device => **005:002**
 
 ### I don't know my meters ID, what can I do?
 
-This is a planned feature...
+Use the Discovery tool to find devices on the defualt frequency.
 
 ### Thanks to
 
 A big thank you to all kind [contributions](https://github.com/allangood/rtlamr2mqtt/graphs/contributors)!
 
 ### Credits to:
-
+Allan Good 
 RTLAMR - https://github.com/bemasher/rtlamr
 
 RTL_TCP - https://osmocom.org/projects/rtl-sdr/wiki/Rtl-sdr
