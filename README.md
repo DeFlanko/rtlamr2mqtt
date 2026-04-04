@@ -1,4 +1,4 @@
-### RTLAMR2MQTT
+### RTLAMR2MQTT-beta
 
 ![Docker Pulls](https://img.shields.io/docker/pulls/allangood/rtlamr2mqtt)
 [![GitHub license](https://img.shields.io/github/license/allangood/rtlamr2mqtt)](https://github.com/allangood/rtlamr2mqtt/blob/main/LICENSE)
